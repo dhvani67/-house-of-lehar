@@ -19,7 +19,7 @@
 
   var PRODUCTS = [
     { id:"aarohi-lehenga", name:"Aarohi Embroidered Lehenga", category:"lehenga", price:249, was:null, badge:"New", reviews:128,
-      images:["https://placehold.co/700x900/d3b99d/39281e?text=Aarohi+Front","https://placehold.co/700x900/c4a487/39281e?text=Aarohi+Back","https://placehold.co/700x900/bf9d7a/39281e?text=Aarohi+Detail","https://placehold.co/700x900/a9896d/39281e?text=Aarohi+Fabric"],
+      images:["images/aarohi-lehenga-1.jpg","https://placehold.co/700x900/d3b99d/39281e?text=Aarohi+Front","https://placehold.co/700x900/c4a487/39281e?text=Aarohi+Back","https://placehold.co/700x900/bf9d7a/39281e?text=Aarohi+Detail","https://placehold.co/700x900/a9896d/39281e?text=Aarohi+Fabric"],
       desc:"A hand-embroidered ivory and gold lehenga set, finished with delicate zari work and a flowing dupatta. Designed for wedding functions and festive celebrations.",
       colorway:"Ivory / Gold" },
     { id:"noor-organza-saree", name:"Noor Embroidered Organza Saree", category:"saree", price:179, was:null, badge:"New", reviews:0,
