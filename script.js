@@ -39,7 +39,7 @@
       desc:"A festive fusion dress combining traditional embroidery with a modern silhouette. Perfect for pre-wedding functions.",
       colorway:"Coral" },
     { id:"zoya-saree", name:"Zoya Embroidered Saree", category:"saree", price:199, was:null, badge:null, reviews:52,
-      images:["images/bihar-social.jpg","https://placehold.co/700x900/d3b99d/39281e?text=Zoya+Front","https://placehold.co/700x900/c4a487/39281e?text=Zoya+Back","https://placehold.co/700x900/bf9d7a/39281e?text=Zoya+Detail","https://placehold.co/700x900/a9896d/39281e?text=Zoya+Fabric"],
+      images:["images/sarees.png","https://placehold.co/700x900/d3b99d/39281e?text=Zoya+Front","https://placehold.co/700x900/c4a487/39281e?text=Zoya+Back","https://placehold.co/700x900/bf9d7a/39281e?text=Zoya+Detail","https://placehold.co/700x900/a9896d/39281e?text=Zoya+Fabric"],
       desc:"Georgette saree with all-over thread embroidery and a scalloped border, paired with a designer blouse.",
       colorway:"Emerald" },
     { id:"tanvi-lehenga", name:"Tanvi Mehendi Lehenga", category:"lehenga", price:299, was:null, badge:"New", reviews:0,
