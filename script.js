@@ -23,7 +23,7 @@
       desc:"A hand-embroidered ivory and gold lehenga set, finished with delicate zari work and a flowing dupatta. Designed for wedding functions and festive celebrations.",
       colorway:"Ivory / Gold" },
     { id:"noor-organza-saree", name:"Noor Embroidered Organza Saree", category:"saree", price:179, was:null, badge:"New", reviews:0,
-      images:["images/noor-1.jpg","images/noor-2.jpg","images/noor-3.jpg","images/noor-4.jpg"],
+      images:["images/Suits of house of lehar.png","images/noor-2.jpg","images/noor-3.jpg","images/noor-4.jpg"],
       desc:"A black sheer organza saree hand-finished with delicate floral embroidery along the pallu and border. A statement piece for receptions, sangeet nights and evening celebrations.",
       colorway:"Black / Multi Floral" },
     { id:"rani-bandhani-saree", name:"Rani Bandhani Saree", category:"saree", price:219, was:null, badge:"New", reviews:0,
