@@ -31,7 +31,7 @@
       desc:"A rani pink bandhani saree with a hand-painted gold zari border and a tasseled edge, draped over a matching pleated skirt. A vibrant centerpiece for festive celebrations.",
       colorway:"Rani Pink / Gold" },
     { id:"noor-anarkali", name:"Noor Anarkali Suit", category:"suit", price:159, was:null, badge:null, reviews:41,
-      images:["images/bihar-rural-women.jpg","images/Suits of house of lehar.png","https://placehold.co/700x900/d3b99d/39281e?text=Noor+Front","https://placehold.co/700x900/c4a487/39281e?text=Noor+Back","https://placehold.co/700x900/bf9d7a/39281e?text=Noor+Detail","https://placehold.co/700x900/a9896d/39281e?text=Noor+Fabric"],
+      images:["images/Suits of house of lehar.png","images/Suits of house of lehar.png","https://placehold.co/700x900/d3b99d/39281e?text=Noor+Front","https://placehold.co/700x900/c4a487/39281e?text=Noor+Back","https://placehold.co/700x900/bf9d7a/39281e?text=Noor+Detail","https://placehold.co/700x900/a9896d/39281e?text=Noor+Fabric"],
       desc:"A floor-length Anarkali suit with fitted bodice and layered flare, complete with matching churidar and dupatta.",
       colorway:"Blush Pink" },
     { id:"ishani-dress", name:"Ishani Festive Dress", category:"dress", price:139, was:169, badge:"Sale", reviews:37,
