@@ -35,7 +35,7 @@
       desc:"A floor-length Anarkali suit with fitted bodice and layered flare, complete with matching churidar and dupatta.",
       colorway:"Blush Pink" },
     { id:"ishani-dress", name:"Ishani Festive Dress", category:"dress", price:139, was:169, badge:"Sale", reviews:37,
-      images:["images/bihar-chhath-puja.jpg","https://placehold.co/700x900/b69678/39281e?text=Ishani+Front","https://placehold.co/700x900/a98865/39281e?text=Ishani+Back","https://placehold.co/700x900/c4a487/39281e?text=Ishani+Detail","https://placehold.co/700x900/a9896d/39281e?text=Ishani+Fabric"],
+      images:["images/ChatGPT Image Aug 19, 2026, 07_15_33 PM.png","https://placehold.co/700x900/b69678/39281e?text=Ishani+Front","https://placehold.co/700x900/a98865/39281e?text=Ishani+Back","https://placehold.co/700x900/c4a487/39281e?text=Ishani+Detail","https://placehold.co/700x900/a9896d/39281e?text=Ishani+Fabric"],
       desc:"A festive fusion dress combining traditional embroidery with a modern silhouette. Perfect for pre-wedding functions.",
       colorway:"Coral" },
     { id:"zoya-saree", name:"Zoya Embroidered Saree", category:"saree", price:199, was:null, badge:null, reviews:52,
